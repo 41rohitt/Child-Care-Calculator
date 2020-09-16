@@ -1,0 +1,522 @@
+{
+   "Alabama": {
+      "centers_programs": 1643,
+      "centers_slots": 98597,
+      "FCC_programs": 866,
+      "FCC_slots": 6928,
+      "fixed_cost_centers": 31857112.8,
+      "fixed_cost_FCC": 2345820.8,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Alaska": {
+      "centers_programs": 235,
+      "centers_slots": 15349,
+      "FCC_programs": 303,
+      "FCC_slots": 2595,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Arizona": {
+      "centers_programs": 2135,
+      "centers_slots": 208931,
+      "FCC_programs": 285,
+      "FCC_slots": 2771,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Arkansas": {
+      "centers_programs": 1722,
+      "centers_slots": 139252,
+      "FCC_programs": 363,
+      "FCC_slots": 4327,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "California": {
+      "centers_programs": 12863,
+      "centers_slots": 658092,
+      "FCC_programs": 13024,
+      "FCC_slots": 164864,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Colorado": {
+      "centers_programs": 2019,
+      "centers_slots": 131988,
+      "FCC_programs": 1952,
+      "FCC_slots": 14382,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Connecticut": {
+      "centers_programs": 1183,
+      "centers_slots": 82207,
+      "FCC_programs": 2363,
+      "FCC_slots": 14353,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Delaware": {
+      "centers_programs": 468,
+      "centers_slots": 42629,
+      "FCC_programs": 679,
+      "FCC_slots": 5985,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "District_of_Columbia": {
+      "centers_programs": 479,
+      "centers_slots": 32234,
+      "FCC_programs": 112,
+      "FCC_slots": 745,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Florida": {
+      "centers_programs": 7375,
+      "centers_slots": 724395,
+      "FCC_programs": 2649,
+      "FCC_slots": 24950,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Georgia": {
+      "centers_programs": 3470,
+      "centers_slots": 338061,
+      "FCC_programs": 1759,
+      "FCC_slots": 10532,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Hawaii": {
+      "centers_programs": 468,
+      "centers_slots": 22251,
+      "FCC_programs": 379,
+      "FCC_slots": 2246,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Idaho": {
+      "centers_programs": 657,
+      "centers_slots": 45317,
+      "FCC_programs": 679,
+      "FCC_slots": 6062,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Illinois": {
+      "centers_programs": 2873,
+      "centers_slots": 230870,
+      "FCC_programs": 7210,
+      "FCC_slots": 57321,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Indiana": {
+      "centers_programs": 1793,
+      "centers_slots": 133609,
+      "FCC_programs": 2738,
+      "FCC_slots": 34631,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Iowa": {
+      "centers_programs": 1585,
+      "centers_slots": 121875,
+      "FCC_programs": 2962,
+      "FCC_slots": 31091,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Kansas": {
+      "centers_programs": 870,
+      "centers_slots": 52028,
+      "FCC_programs": 4003,
+      "FCC_slots": 34915,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Kentucky": {
+      "centers_programs": 1662,
+      "centers_slots": 133477,
+      "FCC_programs": 258,
+      "FCC_slots": 1556,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Louisiana": {
+      "centers_programs": 2108,
+      "centers_slots": 155616,
+      "FCC_programs": 236,
+      "FCC_slots": 1416,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Maine": {
+      "centers_programs": 823,
+      "centers_slots": 36920,
+      "FCC_programs": 982,
+      "FCC_slots": 10610,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Maryland": {
+      "centers_programs": 1564,
+      "centers_slots": 106834,
+      "FCC_programs": 5381,
+      "FCC_slots": 41044,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Massachusetts": {
+      "centers_programs": 1872,
+      "centers_slots": 132626,
+      "FCC_programs": 2316,
+      "FCC_slots": 19275,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Michigan": {
+      "centers_programs": 3747,
+      "centers_slots": 256252,
+      "FCC_programs": 4880,
+      "FCC_slots": 39515,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Minnesota": {
+      "centers_programs": 1756,
+      "centers_slots": 130120,
+      "FCC_programs": 8162,
+      "FCC_slots": 95809,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Mississippi": {
+      "centers_programs": 1267,
+      "centers_slots": 108511,
+      "FCC_programs": 30,
+      "FCC_slots": 531,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Missouri": {
+      "centers_programs": 1912,
+      "centers_slots": 130677,
+      "FCC_programs": 1077,
+      "FCC_slots": 11946,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Montana": {
+      "centers_programs": 267,
+      "centers_slots": 13461,
+      "FCC_programs": 620,
+      "FCC_slots": 6062,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Nebraska": {
+      "centers_programs": 872,
+      "centers_slots": 64208,
+      "FCC_programs": 2129,
+      "FCC_slots": 22160,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Nevada": {
+      "centers_programs": 412,
+      "centers_slots": 39512,
+      "FCC_programs": 243,
+      "FCC_slots": 1683,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "New_Hampshire": {
+      "centers_programs": 427,
+      "centers_slots": 28355,
+      "FCC_programs": 169,
+      "FCC_slots": 1907,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "New_Jersey": {
+      "centers_programs": 3110,
+      "centers_slots": 273856,
+      "FCC_programs": 2,
+      "FCC_slots": 13,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "New_Mexico": {
+      "centers_programs": 732,
+      "centers_slots": 55233,
+      "FCC_programs": 226,
+      "FCC_slots": 2083,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "New_York": {
+      "centers_programs": 3719,
+      "centers_slots": 247739,
+      "FCC_programs": 10547,
+      "FCC_slots": 105395,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "North_Carolina": {
+      "centers_programs": 4109,
+      "centers_slots": 314577,
+      "FCC_programs": 1628,
+      "FCC_slots": 12574,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "North_Dakota": {
+      "centers_programs": 419,
+      "centers_slots": 22642,
+      "FCC_programs": 1266,
+      "FCC_slots": 12922,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Ohio": {
+      "centers_programs": 5453,
+      "centers_slots": 435011,
+      "FCC_programs": 3077,
+      "FCC_slots": 20023,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Oklahoma": {
+      "centers_programs": 1303,
+      "centers_slots": 90903,
+      "FCC_programs": 1683,
+      "FCC_slots": 15095,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Oregon": {
+      "centers_programs": 1065,
+      "centers_slots": 62600,
+      "FCC_programs": 2608,
+      "FCC_slots": 29665,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Pennsylvania": {
+      "centers_programs": 4614,
+      "centers_slots": 363455,
+      "FCC_programs": 2396,
+      "FCC_slots": 18292,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Rhode_Island": {
+      "centers_programs": 323,
+      "centers_slots": 21900,
+      "FCC_programs": 488,
+      "FCC_slots": 3264,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "South_Carolina": {
+      "centers_programs": 1641,
+      "centers_slots": 166022,
+      "FCC_programs": 891,
+      "FCC_slots": 5840,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "South_Dakota": {
+      "centers_programs": 220,
+      "centers_slots": 17379,
+      "FCC_programs": 544,
+      "FCC_slots": 6960,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Tennessee": {
+      "centers_programs": 2783,
+      "centers_slots": 197413,
+      "FCC_programs": 619,
+      "FCC_slots": 6148,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Texas": {
+      "centers_programs": 7934,
+      "centers_slots": 833836,
+      "FCC_programs": 5286,
+      "FCC_slots": 61779,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Utah": {
+      "centers_programs": 491,
+      "centers_slots": 39219,
+      "FCC_programs": 1320,
+      "FCC_slots": 14251,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Vermont": {
+      "centers_programs": 476,
+      "centers_slots": 14535,
+      "FCC_programs": 321,
+      "FCC_slots": 2114,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Virginia": {
+      "centers_programs": 2860,
+      "centers_slots": 268148,
+      "FCC_programs": 2358,
+      "FCC_slots": 21570,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Washington": {
+      "centers_programs": 1651,
+      "centers_slots": 112959,
+      "FCC_programs": 3306,
+      "FCC_slots": 32606,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "West_Virginia": {
+      "centers_programs": 410,
+      "centers_slots": 28260,
+      "FCC_programs": 1244,
+      "FCC_slots": 8073,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Wisconsin": {
+      "centers_programs": 1859,
+      "centers_slots": 123220,
+      "FCC_programs": 2226,
+      "FCC_slots": 14637,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "Wyoming": {
+      "centers_programs": 274,
+      "centers_slots": 15641,
+      "FCC_programs": 397,
+      "FCC_slots": 4515,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   },
+   "United_States": {
+      "centers_programs": 105973,
+      "centers_slots": 8118802,
+      "FCC_programs": 111242,
+      "FCC_slots": 1070031,
+      "fixed_cost_centers": null,
+      "fixed_cost_FCC": null,
+      "fixed_cost_monthly_%": 0.4,
+      "operating_cost_monthly_%": 0.6
+   }
+}
